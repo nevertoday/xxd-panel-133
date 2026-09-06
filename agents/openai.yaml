@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 133"
+  short_description: "Stipple Transparent Overprint"
+  default_prompt: "Use $xxd-panel-133 to transform my photograph using the complete canonical source brief."
