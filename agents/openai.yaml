@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 133"
-  short_description: "Stipple Transparent Overprint"
-  default_prompt: "Use $xxd-panel-133 to transform my photograph using the complete canonical source brief."
+  short_description: "点刻透明套印志：用同色半透明形层层套印，叠得越多越深，再以细点刻画体积"
+  default_prompt: "Use $xxd-panel-133 to turn my photo into Stipple Transparent Overprint artwork."

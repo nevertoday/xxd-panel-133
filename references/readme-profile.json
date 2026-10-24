@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 133｜Stipple Transparent Overprint: rebuilds the key subject of a photo, whether a person, building, animal, plant or object, from several translucent shapes in one ink family that overprint like transparent spot ink, getting darker where two or three layers cross, filled with fine botanical-engraving stippling and hairline outlines, in one quiet main colour such as olive, sage, ochre, warm brown, misty blue or ink grey on warm ivory paper, small in large whitespace with thin, widely spaced Swiss-style editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-133 or asks for stipple engraving, transparent overprint, botanical print or Swiss minimal poster images from a photo.",
+  "short_description": "点刻透明套印志：用同色半透明形层层套印，叠得越多越深，再以细点刻画体积",
+  "zh-CN": {
+    "name": "点刻透明套印志",
+    "tagline": "用几层同色半透明形状层层套印照片主体，叠得越多颜色越深，再用细点刻出体积。",
+    "look": "主体由几块同色系、半透明的轮廓形组成，像透明专色油墨在纸上反复套印：单层浅，两层交叠变深，三层更深，交叠处本身就成了新形状，彼此是穿过而不是遮挡。形体里面用细小的点刻表现明暗和纹理，像复古植物学版画或科学图鉴，偶尔配极细的轮廓线。颜色以一个安静的主色系为核心，如橄榄绿、灰绿、赭黄、暖棕、雾蓝或墨灰，配暖象牙白纸底。主体小，留白大；文字是纤细、字距拉宽、可竖排或旋转的小字和编号。",
+    "traits": [
+      "植物学点刻",
+      "同色透明套印",
+      "穿透而非遮挡",
+      "叠得越多越深",
+      "瑞士极简排字"
+    ],
+    "good": [
+      "植物和自然物：一枝花、一片叶子、一颗果实、一块石头",
+      "轮廓清楚、可以拆成几层形状的主体：一只鸟、一个瓶子、一个人的侧影",
+      "想做成图鉴风海报、展览视觉或书籍封面的照片"
+    ],
+    "poor": [
+      "颜色多、需要保留彩色的照片：彩色街景、节日装饰、多色食物",
+      "人很多或场景复杂的照片，层叠后会糊成一片",
+      "想要水彩晕染、厚重笔触、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Stipple Transparent Overprint",
+    "tagline": "Overprints your photo's subject in layers of one translucent ink, darker where they overlap, with fine stippling for volume.",
+    "look": "The subject is built from several translucent shapes in one colour family, as if transparent spot ink were printed over and over on paper: one layer is pale, two overlapping layers turn darker and three darker still, and the overlaps become new shapes in their own right, passing through each other rather than hiding one another. Inside the forms, tiny stipple dots model light, shade and texture like a vintage botanical engraving or scientific plate, with the occasional hairline outline. One quiet main colour leads, such as olive, sage, ochre, warm brown, misty blue or ink grey, on warm ivory paper. The subject is small in plenty of whitespace, with thin, widely spaced small type and numbers, sometimes vertical or rotated.",
+    "traits": [
+      "Botanical stippling",
+      "Transparent single-ink overprint",
+      "Shapes pass through, not over",
+      "Darker where layers stack",
+      "Swiss minimal typography"
+    ],
+    "good": [
+      "Plants and natural objects: a flower stem, a leaf, a fruit, a stone",
+      "Subjects with clear outlines that split into a few layered shapes: a bird, a bottle, a person in profile",
+      "Photos for a field-guide poster, exhibition visual or book cover"
+    ],
+    "poor": [
+      "Colourful photos that need to stay multicoloured: bright streets, festive decorations, mixed dishes",
+      "Crowded or complex scenes, which turn muddy once layered",
+      "Requests for watercolour washes, heavy brushwork, cartoon or 3D looks"
+    ]
+  },
+  "ja": {
+    "name": "点刻と透明重ね刷り",
+    "tagline": "同じ色の半透明な形を何層も重ね刷りして写真の主役をつくり、重なるほど濃く、細かな点刻で立体を出します。",
+    "look": "主役は同系色で半透明の輪郭形をいくつか重ねて組み立てます。透明な特色インクを紙に何度も刷り重ねたように、一層は淡く、二層の重なりは濃く、三層はさらに濃くなり、重なった部分そのものが新しい形になります。形は互いに隠し合うのではなく、すり抜けて重なります。形の内側は細かな点刻で明暗や質感をつくり、古い植物図譜や博物図版のような見た目に、ごく細い輪郭線が添えられることもあります。色はオリーブ、灰緑、黄土、暖かい茶、霧のような青、墨グレーなど静かな主色一つを軸に、温かいアイボリーの紙と合わせます。主役は小さく余白は大きく、文字は細く字間を広げた小さな文字や番号で、縦組みや回転も使います。",
+    "traits": [
+      "植物図譜の点刻",
+      "同色の透明重ね刷り",
+      "隠さずすり抜ける",
+      "重なるほど濃い",
+      "スイス風ミニマル組版"
+    ],
+    "good": [
+      "植物や自然のもの：花の枝、一枚の葉、果実、石",
+      "輪郭がはっきりして数層の形に分けられる主役：鳥、瓶、人の横顔",
+      "図鑑風のポスター、展覧会のビジュアル、本の表紙にしたい写真"
+    ],
+    "poor": [
+      "多色のまま残したいカラフルな写真：鮮やかな街並み、祭りの飾り、彩り豊かな料理",
+      "人が多い、または複雑な場面（重ねると濁ってしまいます）",
+      "水彩のにじみ、厚い筆致、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "점각 투명 겹침 인쇄",
+    "tagline": "같은 색의 반투명 형태를 여러 겹 겹쳐 찍어 사진의 주인공을 만들고, 겹칠수록 진해지며 가는 점각으로 입체를 냅니다.",
+    "look": "주인공은 같은 계열의 반투명 윤곽 형태 몇 개로 이루어집니다. 투명한 별색 잉크를 종이에 거듭 찍은 것처럼 한 겹은 옅고, 두 겹이 겹치면 진해지고, 세 겹은 더 진해지며, 겹친 부분 자체가 새로운 형태가 됩니다. 형태들은 서로 가리지 않고 통과하며 겹칩니다. 형태 안쪽은 작은 점각으로 명암과 질감을 만들어 옛 식물 도감 판화나 과학 도판처럼 보이고, 아주 가는 윤곽선이 곁들여지기도 합니다. 색은 올리브, 회녹색, 황토, 따뜻한 갈색, 안개 같은 파랑, 먹회색 같은 차분한 주색 하나를 중심으로 따뜻한 상아색 종이와 맞춥니다. 주인공은 작고 여백은 넓으며, 글은 가늘고 자간을 넓힌 작은 글자와 번호로 세로쓰기나 회전도 씁니다.",
+    "traits": [
+      "식물 도감 점각",
+      "같은 색 투명 겹침 인쇄",
+      "가리지 않고 통과",
+      "겹칠수록 진하게",
+      "스위스풍 미니멀 타이포그래피"
+    ],
+    "good": [
+      "식물과 자연물: 꽃 한 가지, 잎 한 장, 열매, 돌",
+      "윤곽이 분명해 몇 겹의 형태로 나눌 수 있는 주인공: 새, 병, 사람의 옆모습",
+      "도감풍 포스터, 전시 비주얼, 책 표지로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "여러 색을 그대로 살려야 하는 화려한 사진: 알록달록한 거리, 축제 장식, 색이 많은 음식",
+      "사람이 많거나 복잡한 장면(겹치면 탁해집니다)",
+      "수채 번짐, 두꺼운 붓질, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تنقيط وطباعة شفافة متراكبة",
+    "tagline": "يبني العنصر الرئيسي في صورتك من طبقات شفافة بحبر واحد تزداد عمقاً حيث تتراكب، مع تنقيط دقيق يجسّم الحجم.",
+    "look": "يُبنى العنصر من عدة أشكال شفافة من عائلة لونية واحدة، كأن حبراً موضعياً شفافاً طُبع مراراً على الورق: الطبقة الواحدة فاتحة، والطبقتان المتراكبتان أغمق، والثلاث أغمق أكثر، وتصبح مناطق التراكب أشكالاً جديدة بذاتها، تعبر الأشكال بعضها بعضاً ولا تحجب إحداها الأخرى. وداخل الأشكال نقاط تنقيط دقيقة تصوغ الضوء والظل والملمس كما في نقوش علم النبات القديمة أو لوحات الموسوعات العلمية، مع خط خارجي رفيع جداً أحياناً. يقود لون رئيسي هادئ واحد كالزيتوني أو الأخضر الرمادي أو المغرة أو البني الدافئ أو الأزرق الضبابي أو رمادي الحبر، على ورق عاجي دافئ. العنصر صغير والفراغ واسع، والنص حروف وأرقام صغيرة رفيعة متباعدة، أحياناً عمودية أو مائلة.",
+    "traits": [
+      "تنقيط النقوش النباتية",
+      "طباعة شفافة بحبر واحد",
+      "أشكال تتعابر لا تتحاجب",
+      "أغمق حيث تتراكب الطبقات",
+      "طباعة سويسرية بسيطة"
+    ],
+    "good": [
+      "نباتات وأشياء من الطبيعة: غصن زهرة، ورقة شجر، ثمرة، حجر",
+      "عناصر بخطوط خارجية واضحة تنقسم إلى بضعة أشكال متراكبة: طائر، زجاجة، شخص من الجانب",
+      "صور لملصق بطابع الموسوعات أو هوية بصرية لمعرض أو غلاف كتاب"
+    ],
+    "poor": [
+      "صور ملوّنة يجب أن تبقى متعددة الألوان: شوارع زاهية، زينة الأعياد، أطباق متنوعة",
+      "مشاهد مزدحمة أو معقدة تصبح عكرة بعد التراكب",
+      "طلب انسيابات الألوان المائية أو ضربات فرشاة كثيفة أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}

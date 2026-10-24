@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-133
-description: "Create XXD Panel 133 raster artwork from photographs using delicate stipple engraving and same-colour transparent overprint, interpenetrating silhouettes that darken at overlaps, and Swiss-inspired whitespace. Use when the user invokes xxd-panel-133 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 133｜Stipple Transparent Overprint: rebuilds the key subject of a photo, whether a person, building, animal, plant or object, from several translucent shapes in one ink family that overprint like transparent spot ink, getting darker where two or three layers cross, filled with fine botanical-engraving stippling and hairline outlines, in one quiet main colour such as olive, sage, ochre, warm brown, misty blue or ink grey on warm ivory paper, small in large whitespace with thin, widely spaced Swiss-style editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-133 or asks for stipple engraving, transparent overprint, botanical print or Swiss minimal poster images from a photo."
 ---
 
 # XXD Panel 133
